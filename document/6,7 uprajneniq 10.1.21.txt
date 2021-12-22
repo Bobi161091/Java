@@ -1,9 +1,0 @@
-Function<приема, връща> -> apply
-Consumer<приема> -> void -> accept
-Supplier<връща> -> get
-Predicate<приема> -> false / true -> test
-BiFunction<приема1, приема2, връща> -> apply           1622-2023-4010702.
-
-
-
-
